@@ -41,8 +41,8 @@ Each team member will update the JMRI spreadsheet by using the assigned color la
 | Date             | Topics                                                                                                                                                 |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 2 November 2023  | Vol 58, Issues 3 & 4 (View [Spreadsheet](https://uhsnhs.sharepoint.com/:x:/r/sites/MRIPhysics/Shared%20Documents/Journal%20Lounge/JMRI/jmri-all-summary.xlsx?d=wb8209d2634604cc392f21a06ccc10f9a&csf=1&web=1&e=gOFf17)) |
-| 4 January 2024   | TBD |
-| 7 March 2024     | TBD |
+| 4 January 2024   | Vol 58, Issues 5 & 6 (View [Spreadsheet](https://uhsnhs.sharepoint.com/:x:/r/sites/MRIPhysics/Shared%20Documents/Journal%20Lounge/JMRI/jmri-all-summary.xlsx?d=wb8209d2634604cc392f21a06ccc10f9a&csf=1&web=1&e=gOFf17)) |
+| 7 March 2024     | Vol 59, Issues 1 & 2 (View [Spreadsheet](https://uhsnhs.sharepoint.com/:x:/r/sites/MRIPhysics/Shared%20Documents/Journal%20Lounge/JMRI/jmri-all-summary.xlsx?d=wb8209d2634604cc392f21a06ccc10f9a&csf=1&web=1&e=gOFf17)) |
 | 2 May 2024       | TBD |
 | 4 July 2024      | TBD |
 | 5 September 2024 | TBD |
