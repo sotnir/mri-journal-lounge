@@ -59,6 +59,13 @@ Here we list external resources for additional journals and conferences that are
 
 <div class="container">
     <div class="reading-item">
+        <h3>ISMRM 2024 Singapore Annual Conference</h3>
+        <ul>
+          <li><a target=_blank href="https://www.ismrm.org/24/24program.htm">Program</a></li>
+        </ul>
+    </div>
+
+    <div class="reading-item">
         <h3>ISMRM 2023 Toronto Annual Conference</h3>
         <ul>
           <li><a target=_blank href="https://www.ismrm.org/23/23program.htm">Program</a></li>
