@@ -59,14 +59,14 @@ Here we list external resources for additional journals and conferences that are
 
 <div class="container">
     <div class="reading-item">
-        <h3>ISMRM 2024 Singapore Annual Conference</h3>
+        <h3>ISMRM 2024<br> Singapore</h3>
         <ul>
           <li><a target=_blank href="https://www.ismrm.org/24/24program.htm">Program</a></li>
         </ul>
     </div>
 
     <div class="reading-item">
-        <h3>ISMRM 2023 Toronto Annual Conference</h3>
+        <h3>ISMRM 2023<br> Toronto</h3>
         <ul>
           <li><a target=_blank href="https://www.ismrm.org/23/23program.htm">Program</a></li>
           <li><a target=_blank href="https://ismrm2023-unofficial.netlify.app/">Abstract Quick Search</a></li>
@@ -75,7 +75,7 @@ Here we list external resources for additional journals and conferences that are
     </div>
 
     <div class="reading-item">
-        <h3>ISMRM 2022 London Annual Conference</h3>
+        <h3>ISMRM 2022<br> London</h3>
         <ul>
           <li><a target=_blank href="https://submissions.mirasmart.com/ISMRM2022/itinerary/ConferenceMatrix.aspx">Program</a></li>
           <li><a target=_blank href="https://ismrm2022-unofficial.netlify.app/">Abstract Quick Search</a></li>
