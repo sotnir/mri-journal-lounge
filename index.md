@@ -62,6 +62,9 @@ Here we list external resources for additional journals and conferences that are
         <h3>ISMRM 2024<br> Singapore</h3>
         <ul>
           <li><a target=_blank href="https://www.ismrm.org/24/24program.htm">Program</a></li>
+          <li><a target=_blank href="https://meetingsearch.ismrm.org/">Abstract Quick Search</a></li>
+          <li><a target=_blank href="https://ismrm-2024-search.azurewebsites.net/">Abstract AI Query</a></li>
+          <li><a target=_blank href="https://padlet.com/yz23e20/uhs-mri-physics-ismrm-2024-board-t87w7i23lhstnnue">Padlet highlight board</a></li>
         </ul>
     </div>
 
